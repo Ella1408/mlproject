@@ -7,7 +7,9 @@ This project demonstrates a full end-to-end machine learning workflow, from data
 Data Preprocessing: Code for cleaning and preparing datasets for machine learning tasks.
 Modeling: Implementation of machine learning models, including Random Forest, Decision Tree, Gradient Boosting, Linear Regression, XGBost, CatBoost, AdaBoost.
 Deployment: Web app setup using Flask for model inference.
-Tools: Jupyter notebooks, dbt, and AWS Elastic Beantalk.
+
+### Tools: 
+Jupyter notebooks, dbt, and AWS Elastic Beantalk.
 
 ### Setup:
 Clone the repository.
